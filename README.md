@@ -217,4 +217,3 @@ MIT
 =======
 # muapi-javascript
 Javascript sdk for Muapi
->>>>>>> e8ceee02bfdd3073c31d41cf68385e3876aeb57b
